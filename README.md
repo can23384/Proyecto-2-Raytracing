@@ -5,7 +5,7 @@ Este proyecto es un **raytracer en Rust** que renderiza una escena 3D hecha con 
 Soporta varios materiales (tierra, madera, hojas, agua y minerales) con efectos de **iluminación difusa, especular, reflexión y refracción**.
 
 
-## [🎥 Video Demostrativo]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/EGLqN1GQTAo))  
+## [🎥 Video Demostrativo](https://youtu.be/EGLqN1GQTAo) 
 
 
 ---
